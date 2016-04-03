@@ -1,0 +1,21 @@
+ipAddress: 222.205.55.35
+lastAccountName: godgin
+lastlocation:
+  pitch: 40.05002
+  world: world
+  x: 0.3752293734638589
+  y: 125.0
+  yaw: -2.3984985
+  z: -43.01556454902576
+logoutlocation:
+  pitch: 43.34998
+  world: world
+  x: 3.7206205681432034
+  y: 75.0
+  yaw: 342.45255
+  z: -39.77908653368168
+money: '124'
+timestamps:
+  login: 1413382428614
+  logout: 1413382774597
+uuid: 9bf66a31-6525-3a6c-b71a-2219c9338cf6

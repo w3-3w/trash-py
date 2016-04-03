@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.109.253
+lastAccountName: tttttim
+lastlocation:
+  pitch: 9.450051
+  world: Resource
+  x: 18.37505428066665
+  y: 72.0
+  yaw: -126.00476
+  z: -397.36478529754186
+logoutlocation:
+  pitch: 23.700027
+  world: world
+  x: 174.7948483427667
+  y: 110.0
+  yaw: -95.250046
+  z: -58.577819689500586
+money: '0.0'
+timestamps:
+  lastteleport: 1414409794446
+  login: 1417082093570
+  logout: 1417082265755
+uuid: be98a4be-5b84-39b9-be51-a6e323e3a88f

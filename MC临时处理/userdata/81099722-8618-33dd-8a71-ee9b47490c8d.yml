@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 222.205.20.141
+lastAccountName: mad
+logoutlocation:
+  pitch: 10.50007
+  world: mczju
+  x: 549.3828344886454
+  y: 72.0
+  yaw: -3.6029358
+  z: -81.98851459739069
+money: '1000'
+timestamps:
+  lastteleport: 1419141915907
+  login: 1419141290768
+  logout: 1419142280395

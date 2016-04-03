@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.106.221
+lastAccountName: henry
+lastlocation:
+  pitch: -8.249982
+  world: Island
+  x: -506.53725383373916
+  y: 110.0
+  yaw: -7.197998
+  z: 4.9658713519554825
+logoutlocation:
+  pitch: 84.899956
+  world: Island
+  x: 16.40202040772145
+  y: 143.0
+  yaw: 178.79968
+  z: 14.751299810295478
+money: '5538.0'
+socialspy: false
+timestamps:
+  lastteleport: 1399994492236
+  login: 1401335396160
+  logout: 1401336065810
+uuid: 7f3cac41-f70c-3310-a824-e250dd875126

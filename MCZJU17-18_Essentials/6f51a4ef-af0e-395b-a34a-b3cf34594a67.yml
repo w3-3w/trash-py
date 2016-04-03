@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 10.189.38.138
+lastAccountName: yzyzsun
+lastlocation:
+  pitch: 69.29999
+  world: world
+  x: 0.5299484255627929
+  y: 125.0
+  yaw: -174.74805
+  z: -44.209667334227866
+logoutlocation:
+  pitch: 49.949974
+  world: Resource
+  x: 99.5
+  y: 207.0
+  yaw: 287.2498
+  z: -62.5
+money: '1130.0'
+timestamps:
+  login: 1416729507479
+  logout: 1416730758124
+uuid: 6f51a4ef-af0e-395b-a34a-b3cf34594a67

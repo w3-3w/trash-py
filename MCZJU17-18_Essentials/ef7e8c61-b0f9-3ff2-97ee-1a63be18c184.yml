@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.110.29.22
+lastAccountName: forwind
+lastlocation:
+  pitch: -36.599937
+  world: Resource
+  x: -246.3000000119209
+  y: 184.0
+  yaw: -294.45123
+  z: -428.29632643757293
+logoutlocation:
+  pitch: 15.90007
+  world: Resource
+  x: -520.1086175541913
+  y: 40.0
+  yaw: -207.89929
+  z: -13.538321999730343
+money: '21719.0'
+socialspy: false
+timestamps:
+  lastteleport: 1413965028531
+  login: 1415461232965
+  logout: 1415463353659
+uuid: ef7e8c61-b0f9-3ff2-97ee-1a63be18c184

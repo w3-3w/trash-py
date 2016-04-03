@@ -1,0 +1,23 @@
+ipAddress: 222.205.110.148
+lastAccountName: ice_cup
+lastlocation:
+  pitch: 5.10001
+  world: world
+  x: 53.97044261813475
+  y: 73.0
+  yaw: 279.8999
+  z: 108.21265311446199
+logoutlocation:
+  pitch: 25.349997
+  world: Resource
+  x: 45.655912061552726
+  y: 203.0
+  yaw: 70.69108
+  z: -52.72903935907565
+money: '60.0'
+socialspy: false
+timestamps:
+  lastteleport: 1395999036587
+  login: 1396000170284
+  logout: 1396000197725
+uuid: 5b4001f6-b6dc-3206-b3dd-3559042767f8

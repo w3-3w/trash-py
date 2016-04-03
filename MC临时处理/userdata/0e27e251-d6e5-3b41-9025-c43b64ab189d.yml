@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 10.190.65.230
+lastAccountName: hazumi
+logoutlocation:
+  pitch: -6.4502373
+  world: mczju
+  x: -737.684021275105
+  y: 63.0
+  yaw: -87.7666
+  z: -357.1613344092289
+money: '2237.0'
+socialspy: false
+timestamps:
+  lastteleport: 1391234319617
+  login: 1422108664102
+  logout: 1422114862392

@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.97.203
+lastAccountName: www_test1
+lastlocation:
+  pitch: 1.5
+  world: world
+  x: 95.0
+  y: 10.0
+  yaw: 4.5
+  z: 95.0
+logoutlocation:
+  pitch: 9.600002
+  world: world
+  x: 96.6968767574134
+  y: 2.0
+  yaw: 45.899998
+  z: 95.2279098777907
+money: '0.0'
+socialspy: false
+timestamps:
+  lastteleport: 1415502485272
+  login: 1415507714928
+  logout: 1415508763559
+uuid: ed4027d4-15b2-34fd-9a39-9b35de4ce070

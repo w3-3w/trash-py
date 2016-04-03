@@ -1,0 +1,21 @@
+ipAddress: 10.189.40.210
+lastAccountName: r_lipe
+lastlocation:
+  pitch: 5.999973
+  world: world
+  x: 0.41752717092816516
+  y: 57.0
+  yaw: -26.128662
+  z: 41.32383125745954
+logoutlocation:
+  pitch: 44.69989
+  world: world
+  x: -1.3874790139110433
+  y: 64.0
+  yaw: 123.30249
+  z: -428.30000001192093
+timestamps:
+  lastteleport: 1414068279323
+  login: 1414112902118
+  logout: 1414113323316
+uuid: 95343fad-eb43-3013-bd4b-f8d933b50aef

@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.50.107
+lastAccountName: crazylife
+lastlocation:
+  pitch: 26.849934
+  world: world
+  x: 3237.6908019032494
+  y: 96.0
+  yaw: 261.0005
+  z: 4361.97793888991
+logoutlocation:
+  pitch: 24.450016
+  world: world
+  x: 3326.4357546781166
+  y: 63.0
+  yaw: 103.066895
+  z: 4408.065829568978
+money: '54'
+socialspy: false
+timestamps:
+  lastteleport: 1393774809638
+  login: 1413602514535
+  logout: 1413602655507
+uuid: de4a0cd9-bb26-32f5-8b02-a08823e63a26

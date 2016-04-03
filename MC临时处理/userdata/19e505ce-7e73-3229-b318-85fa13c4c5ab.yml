@@ -1,0 +1,20 @@
+afk: false
+ipAddress: 222.205.106.177
+lastAccountName: w3_3w
+logoutlocation:
+  pitch: 38.999794
+  world: mczju
+  x: 371.1197688891627
+  y: 81.125
+  yaw: 94.23505
+  z: 137.6369738180285
+money: '20'
+socialspy: false
+timestamps:
+  kits:
+    firework: 1413011858169
+  lastteleport: 1422975169800
+  login: 1423334577819
+  logout: 1423337348273
+unlimited:
+- 332

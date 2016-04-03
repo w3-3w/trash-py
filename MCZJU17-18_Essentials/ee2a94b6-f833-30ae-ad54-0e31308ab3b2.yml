@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.15.174
+lastAccountName: doctor
+lastlocation:
+  pitch: 67.35001
+  world: Resource
+  x: -119.77179331613387
+  y: 10.0
+  yaw: 84.75002
+  z: -130.55572713864967
+logoutlocation:
+  pitch: 18.750034
+  world: world
+  x: 316.30000001192093
+  y: 87.0
+  yaw: 145.9498
+  z: -423.07499998807907
+money: '876.0'
+timestamps:
+  lastteleport: 1412135086337
+  login: 1417435648533
+  logout: 1417436385087
+uuid: ee2a94b6-f833-30ae-ad54-0e31308ab3b2

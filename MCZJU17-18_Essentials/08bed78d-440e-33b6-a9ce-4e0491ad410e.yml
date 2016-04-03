@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 222.205.21.11
+lastAccountName: henan
+lastlocation:
+  pitch: 10.500116
+  world: world
+  x: 114.7642319090434
+  y: 70.0
+  yaw: 338.6797
+  z: -143.04719923893532
+logoutlocation:
+  pitch: 8.399925
+  world: Resource
+  x: -130.3510519600576
+  y: 191.0
+  yaw: -175.20001
+  z: -167.29599991922143
+money: '1848.0'
+timestamps:
+  login: 1415435983399
+  logout: 1415438939914
+uuid: 08bed78d-440e-33b6-a9ce-4e0491ad410e

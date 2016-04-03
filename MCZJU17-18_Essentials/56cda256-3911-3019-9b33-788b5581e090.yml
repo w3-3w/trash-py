@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.190.64.151
+lastAccountName: hero
+lastlocation:
+  pitch: -0.89999115
+  world: world
+  x: 54.3258286385105
+  y: 73.0
+  yaw: -92.25021
+  z: 108.49751809087779
+logoutlocation:
+  pitch: 6.1497774
+  world: world
+  x: 773.6749136535273
+  y: 63.0
+  yaw: 35.555603
+  z: 807.4415034473866
+money: '17414.0'
+socialspy: false
+timestamps:
+  lastteleport: 1397733143618
+  login: 1416232908358
+  logout: 1416236487994
+uuid: 56cda256-3911-3019-9b33-788b5581e090

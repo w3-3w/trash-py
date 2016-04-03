@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.180.18.205
+lastAccountName: sakuya
+lastlocation:
+  pitch: 3.1500256
+  world: world
+  x: 479.5075804485783
+  y: 74.7531999805212
+  yaw: 1.810175
+  z: 1499.699999988079
+logoutlocation:
+  pitch: 17.399998
+  world: world
+  x: -765.3061501067132
+  y: 64.5
+  yaw: -207.75037
+  z: -555.0265402452062
+money: '5561.010899999'
+socialspy: false
+timestamps:
+  lastteleport: 1415000866093
+  login: 1416033346493
+  logout: 1416033894351
+uuid: 5bdc05d9-2dae-38c5-8b52-0e897bd95d1e

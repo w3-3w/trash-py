@@ -1,0 +1,29 @@
+afk: false
+ban:
+  reason: "\xA74\u5DF2\u5C01\u7981:\n\xA7r \u7BE1\u6539\u6743\u9650\uFF0C\u4E0D\u89E3\
+    \u91CA\u3002"
+  timeout: 0
+ipAddress: 10.180.66.115
+lastAccountName: tniagrear
+lastlocation:
+  pitch: 15.599958
+  world: world
+  x: 944.2317234590251
+  y: 66.0
+  yaw: -117.44638
+  z: 455.2687053163876
+logoutlocation:
+  pitch: -2.549995
+  world: world
+  x: 5356.214716230023
+  y: 65.0
+  yaw: -309.73462
+  z: -4647.183427633632
+money: '1178.0'
+socialspy: false
+timestamps:
+  lastheal: 1396330172542
+  lastteleport: 1411117042313
+  login: 1411118311842
+  logout: 1411123900121
+uuid: cb48a1a6-2165-3e89-8fcc-c5be19d49b5b

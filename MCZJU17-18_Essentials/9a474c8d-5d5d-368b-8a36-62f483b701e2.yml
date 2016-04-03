@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.189.233.208
+lastAccountName: gin_nanshan
+lastlocation:
+  pitch: 7.6499944
+  world: world
+  x: 95.0360057797472
+  y: 2.0
+  yaw: 119.39999
+  z: 96.33069797826872
+logoutlocation:
+  pitch: 20.099977
+  world: world_nether
+  x: 6.987089325945614
+  y: 64.0
+  yaw: 16.650635
+  z: -11.732041747038235
+money: '5984'
+timestamps:
+  lastteleport: 1415466868024
+  login: 1416729873532
+  logout: 1416729987021
+uuid: 9a474c8d-5d5d-368b-8a36-62f483b701e2

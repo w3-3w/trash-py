@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 10.189.76.164
+lastAccountName: ifthen
+lastlocation:
+  pitch: 47.70005
+  world: world
+  x: 0.9339077563166296
+  y: 125.0
+  yaw: -89.996925
+  z: -43.304486547054566
+logoutlocation:
+  pitch: -1.1999983
+  world: Resource
+  x: 374.8068939477327
+  y: 191.0
+  yaw: 211.49983
+  z: 13.619888419347292
+money: '733.0'
+timestamps:
+  login: 1414129616231
+  logout: 1414130308831
+uuid: 6001def6-476d-3ba8-9bd6-018197204d28

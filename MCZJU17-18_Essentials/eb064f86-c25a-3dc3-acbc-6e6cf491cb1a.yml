@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 10.190.68.3
+lastAccountName: holy
+lastlocation:
+  pitch: 55.65
+  world: world
+  x: 0.8047657066743595
+  y: 125.0
+  yaw: -265.11987
+  z: -43.89845334118348
+logoutlocation:
+  pitch: 0.0
+  world: world
+  x: 1521.400664647525
+  y: 85.0
+  yaw: 0.0
+  z: -347.4486438975676
+money: '3862.0'
+timestamps:
+  login: 1417270783141
+  logout: 1417270851202
+uuid: eb064f86-c25a-3dc3-acbc-6e6cf491cb1a

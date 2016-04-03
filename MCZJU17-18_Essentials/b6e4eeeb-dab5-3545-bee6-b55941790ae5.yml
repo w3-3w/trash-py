@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.59.249
+lastAccountName: luyi
+lastlocation:
+  pitch: 4.6500087
+  world: world
+  x: 54.563420507795236
+  y: 73.0
+  yaw: -86.850006
+  z: 108.62312765779441
+logoutlocation:
+  pitch: -0.2999975
+  world: world
+  x: -189.80525688595367
+  y: 60.0
+  yaw: 269.70004
+  z: -650.663535123332
+money: '8970.0'
+socialspy: false
+timestamps:
+  lastteleport: 1395907753395
+  login: 1414991757605
+  logout: 1414991274092
+uuid: b6e4eeeb-dab5-3545-bee6-b55941790ae5

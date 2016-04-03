@@ -1,0 +1,13 @@
+uuid: 9d8464e7-11b3-36d3-b233-c975d30235f9
+timestamps:
+  login: 1417182113266
+  logout: 1417182229783
+ipAddress: 10.189.37.36
+money: '66'
+logoutlocation:
+  world: Resource
+  x: 150.85554742879313
+  y: 25.0
+  z: -550.4478762469234
+  yaw: -187.35046
+  pitch: 55.500065

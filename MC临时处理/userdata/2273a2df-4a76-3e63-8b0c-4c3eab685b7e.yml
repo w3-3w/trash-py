@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 10.190.65.250
+lastAccountName: Dai
+logoutlocation:
+  pitch: 10.65
+  world: mczju_nether
+  x: -4.183396241335964
+  y: 64.0
+  yaw: 124.64998
+  z: -2.1040906555406047
+money: '1734.0'
+timestamps:
+  lastteleport: 1414410965908
+  login: 1423229398342
+  logout: 1423229465819

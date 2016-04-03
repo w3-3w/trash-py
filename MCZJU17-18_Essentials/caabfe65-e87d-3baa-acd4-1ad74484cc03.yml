@@ -1,0 +1,21 @@
+ipAddress: 222.205.111.38
+lastAccountName: neal
+lastlocation:
+  pitch: 66.89997
+  world: world
+  x: 0.1424102279937514
+  y: 125.0
+  yaw: 112.05194
+  z: -43.81535955401841
+logoutlocation:
+  pitch: 29.84998
+  world: world
+  x: 2.174024272292046
+  y: 57.0
+  yaw: 98.40186
+  z: 40.98719766997531
+money: '213.0'
+timestamps:
+  login: 1413009399289
+  logout: 1413009932984
+uuid: caabfe65-e87d-3baa-acd4-1ad74484cc03

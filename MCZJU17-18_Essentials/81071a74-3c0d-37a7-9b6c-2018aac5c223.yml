@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.16.114
+lastAccountName: coloku
+lastlocation:
+  pitch: 1.2000054
+  world: world
+  x: 3.290525776926569
+  y: 73.0
+  yaw: 0.4501953
+  z: -369.28676308730456
+logoutlocation:
+  pitch: 19.049969
+  world: world
+  x: 1024.442185058806
+  y: 69.0
+  yaw: 207.18652
+  z: -92.0959200480555
+money: '769.0'
+timestamps:
+  lastteleport: 1414314714295
+  login: 1416145759427
+  logout: 1416155642968
+uuid: 81071a74-3c0d-37a7-9b6c-2018aac5c223

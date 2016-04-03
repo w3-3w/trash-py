@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 222.205.25.14
+lastAccountName: jian_sang
+lastlocation:
+  pitch: 0.599978
+  world: world_nether
+  x: -3.754834387241134
+  y: 22.02113238593581
+  yaw: 36.900642
+  z: 5.762373104452623
+logoutlocation:
+  pitch: 2.6999044
+  world: world
+  x: -2529.133873660026
+  y: 54.0
+  yaw: -328.0487
+  z: 1566.94758398567
+money: '604.0'
+timestamps:
+  login: 1418980101356
+  logout: 1418981430252
+uuid: de76c7cb-b4dc-3ca7-a00c-54d0f7514d55

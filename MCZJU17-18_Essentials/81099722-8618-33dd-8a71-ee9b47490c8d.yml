@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.3.139
+lastAccountName: mad
+lastlocation:
+  pitch: 7.350005
+  world: world
+  x: 3.600207959003115
+  y: 73.0
+  yaw: 7.0499506
+  z: -369.1791176703702
+logoutlocation:
+  pitch: 18.899988
+  world: world
+  x: 33.669510447771074
+  y: 68.0
+  yaw: 271.02145
+  z: -38.134272365608
+money: '1000'
+timestamps:
+  lastteleport: 1413113754876
+  login: 1413113552488
+  logout: 1413113803470
+uuid: 81099722-8618-33dd-8a71-ee9b47490c8d

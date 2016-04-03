@@ -1,0 +1,28 @@
+afk: false
+ipAddress: 222.205.106.209
+lastAccountName: w3_3w
+lastlocation:
+  pitch: 0.0
+  world: world
+  x: -2015.7551719151966
+  y: 72.0
+  yaw: 0.0
+  z: 115.69999998807907
+logoutlocation:
+  pitch: 9.899958
+  world: world
+  x: -9.080233737574664
+  y: 68.0
+  yaw: -84.5978
+  z: -2.3544501018345603
+money: '0'
+socialspy: false
+timestamps:
+  kits:
+    firework: 1413011858169
+  lastteleport: 1417363102642
+  login: 1417363089736
+  logout: 1417363184043
+unlimited:
+- 332
+uuid: 19e505ce-7e73-3229-b318-85fa13c4c5ab

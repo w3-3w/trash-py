@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 222.205.109.235
+lastAccountName: storm
+lastlocation:
+  pitch: -44.70003
+  world: world
+  x: 0.6918250905582668
+  y: 125.0
+  yaw: -104.40039
+  z: -43.54774547884174
+logoutlocation:
+  pitch: 21.450005
+  world: world
+  x: 5074.873069010219
+  y: 63.0
+  yaw: -344.84995
+  z: 4993.586509741107
+money: '1968.0'
+timestamps:
+  login: 1419006227232
+  logout: 1419007239344
+uuid: a8ce36a7-45ab-3a2e-822d-e1fdea6c211c

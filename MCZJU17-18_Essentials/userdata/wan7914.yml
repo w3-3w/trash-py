@@ -1,0 +1,21 @@
+socialspy: false
+timestamps:
+  login: 1391268150270
+  logout: 1391268563522
+  lastteleport: 1388654899365
+ipAddress: 10.22.92.171
+logoutlocation:
+  world: world
+  x: -63.01194876822308
+  y: 72.0
+  z: 160.47030776654572
+  yaw: 306.16064
+  pitch: 3.7500012
+lastlocation:
+  world: world_nether
+  x: 62.19197764823791
+  y: 128.0
+  z: 1.2573247378259131
+  yaw: -102.27661
+  pitch: 0.74999624
+afk: false

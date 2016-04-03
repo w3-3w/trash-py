@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.189.1.99
+lastAccountName: phosphorus
+lastlocation:
+  pitch: 7.9500003
+  world: world
+  x: 3.8441819597664
+  y: 73.0
+  yaw: 10.0501585
+  z: -368.7351208144996
+logoutlocation:
+  pitch: 2.2499902
+  world: world
+  x: -4857.590338652594
+  y: 63.0
+  yaw: -4.052962
+  z: -4552.44498154595
+money: '0.0'
+socialspy: false
+timestamps:
+  lastteleport: 1414068590811
+  login: 1417352562910
+  logout: 1417354322680
+uuid: f92b80be-88bc-32ed-b768-ed9f327fd8e2

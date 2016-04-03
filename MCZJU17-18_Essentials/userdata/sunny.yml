@@ -1,0 +1,18 @@
+socialspy: false
+uuid: a8fc6cfc-e3b6-31b2-9720-21288b4f7683
+timestamps:
+  login: 1405420704956
+  logout: 1405421202400
+ipAddress: 10.15.173.174
+logoutlocation:
+  world: world
+  x: -157.6815962807434
+  y: 59.019239457667105
+  z: 26.690152335398434
+  yaw: -340.65005
+  pitch: -67.34996
+ban:
+  reason: "\xa74\u5df2\u5c01\u7981:\n\xa7r \u8bf7\u6ce8\u610f\u884c\u4e3a\u89c4\u8303\
+    \uff0c\u6ce8\u610f\u670d\u52a1\u5668\u89c4\u5219\u3002\u6b32\u89e3\u7981\u8bf7\
+    \u5230\u7fa4\u91cc\u53d1\u7533\u8bf7\u3002"
+  timeout: 0

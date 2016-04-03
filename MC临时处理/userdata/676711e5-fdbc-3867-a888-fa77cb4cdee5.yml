@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 10.15.173.174
+lastAccountName: axel_hu
+logoutlocation:
+  pitch: 4.4107437e-06
+  world: Resource
+  x: 48.47649155407225
+  y: 208.0
+  yaw: 110.81372
+  z: 50.04700515543879
+money: '0.0'
+socialspy: false
+timestamps:
+  login: 1407400675250
+  logout: 1407410500280

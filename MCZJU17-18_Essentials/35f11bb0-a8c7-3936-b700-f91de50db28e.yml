@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.55.35
+lastAccountName: sun_shines
+lastlocation:
+  pitch: 46.350018
+  world: world
+  x: 0.41009254510318705
+  y: 125.0
+  yaw: -158.40527
+  z: -43.76574009655208
+logoutlocation:
+  pitch: -0.30004424
+  world: world
+  x: 424.6584858942407
+  y: 64.0
+  yaw: 341.40167
+  z: 1480.8695561276227
+money: '9348.0'
+socialspy: false
+timestamps:
+  lastteleport: 1412406236529
+  login: 1415368294032
+  logout: 1415369003528
+uuid: 35f11bb0-a8c7-3936-b700-f91de50db28e

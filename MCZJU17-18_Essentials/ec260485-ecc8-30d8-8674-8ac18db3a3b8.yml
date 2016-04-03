@@ -1,0 +1,20 @@
+ipAddress: 10.189.60.139
+lastAccountName: alphanow
+lastlocation:
+  pitch: 67.65009
+  world: world
+  x: 0.7396405962468269
+  y: 125.0
+  yaw: -240.7478
+  z: -43.401291215014844
+logoutlocation:
+  pitch: 6.6001086
+  world: world
+  x: 25.49170078839515
+  y: 62.875
+  yaw: 14.5520935
+  z: 116.7635471228659
+timestamps:
+  login: 1412045743882
+  logout: 1412046299787
+uuid: ec260485-ecc8-30d8-8674-8ac18db3a3b8

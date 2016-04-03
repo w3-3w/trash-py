@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 222.205.23.52
+lastAccountName: cyx2
+logoutlocation:
+  pitch: 39.750015
+  world: world
+  x: -2490.150520478616
+  y: 68.5625
+  yaw: -251.09998
+  z: 2803.1372312686635
+money: '2968'
+socialspy: false
+timestamps:
+  lastteleport: 1421233373673
+  login: 1421229744386
+  logout: 1421234411858

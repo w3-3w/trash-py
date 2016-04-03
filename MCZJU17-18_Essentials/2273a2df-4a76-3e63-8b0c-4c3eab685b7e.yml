@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.0.129
+lastAccountName: dai
+lastlocation:
+  pitch: 1.9500017
+  world: world
+  x: 3.5
+  y: 73.0
+  yaw: 348.30017
+  z: -369.5
+logoutlocation:
+  pitch: 54.599964
+  world: world
+  x: 676.4167254446027
+  y: 105.0
+  yaw: 237.77429
+  z: -1395.5237518974177
+money: '1734.0'
+timestamps:
+  lastteleport: 1414410965908
+  login: 1418282411317
+  logout: 1418283894816
+uuid: 2273a2df-4a76-3e63-8b0c-4c3eab685b7e

@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.28.97
+lastAccountName: rio
+lastlocation:
+  pitch: 0.45000845
+  world: world
+  x: 3.476151932030916
+  y: 73.0
+  yaw: -355.34988
+  z: -368.84197799835397
+logoutlocation:
+  pitch: -9.449998
+  world: world
+  x: 46.6864413527456
+  y: 67.0
+  yaw: 18.571432
+  z: 117.2821377529368
+money: '96.0'
+timestamps:
+  lastteleport: 1416738177880
+  login: 1416738080789
+  logout: 1416738262465
+uuid: 4ebaf4e6-3cd2-32ea-91d5-c9cc39926bd6

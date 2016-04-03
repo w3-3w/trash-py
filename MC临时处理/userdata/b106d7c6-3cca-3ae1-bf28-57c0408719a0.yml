@@ -1,0 +1,18 @@
+afk: false
+ban:
+  reason: "\u5DF2\u4E34\u65F6\u88AB\u670D\u52A1\u5668\u5C01\u7981,\u7406\u7531:1 \u79D2"
+  timeout: 0
+ipAddress: 10.190.68.166
+lastAccountName: LiPER
+logoutlocation:
+  pitch: 42.900024
+  world: mczju
+  x: -262.47498308495494
+  y: 63.0
+  yaw: 140.66235
+  z: -75.47298103465168
+money: '84011.0'
+timestamps:
+  lastteleport: 1415533295996
+  login: 1422800241840
+  logout: 1422801266140

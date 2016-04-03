@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 222.205.16.228
+lastAccountName: ssyy2
+lastlocation:
+  pitch: 31.949955
+  world: world
+  x: 0.5403140985668635
+  y: 125.0
+  yaw: -14.103882
+  z: -43.83462152732129
+logoutlocation:
+  pitch: 14.399945
+  world: world
+  x: -443.9438214032835
+  y: 63.0
+  yaw: -328.52576
+  z: -456.4718475895282
+socialspy: false
+timestamps:
+  login: 1419006062209
+  logout: 1419006366784
+uuid: c35f57d3-f179-3c54-ac42-592d3dc8ba83

@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 210.32.190.15
+lastAccountName: ynix
+lastlocation:
+  pitch: -53.099983
+  world: ZJU
+  x: 78.33287194464222
+  y: 71.87228427519896
+  yaw: 49.805176
+  z: -142.6729843568547
+logoutlocation:
+  pitch: 63.900066
+  world: ZJU
+  x: 58.47420240227661
+  y: 111.75995114960622
+  yaw: -128.85132
+  z: -113.08995274442219
+timestamps:
+  lastteleport: 1417336255935
+  login: 1417494409859
+  logout: 1417496534941
+uuid: 58290cd7-a17b-3084-8287-1505442891d7

@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.15.173.174
+lastAccountName: daboyao
+lastlocation:
+  pitch: 10.049998
+  world: world
+  x: 54.69037918907058
+  y: 64.0
+  yaw: 264.00012
+  z: 108.80336641286095
+logoutlocation:
+  pitch: 16.049957
+  world: world
+  x: 969.4603121670026
+  y: 74.0
+  yaw: 185.25145
+  z: 41.276118505726316
+socialspy: false
+timestamps:
+  lastteleport: 1397320099272
+  login: 1397834766887
+  logout: 1397835992487
+uuid: a6122ce8-cd72-3483-821a-0d7ec1299068

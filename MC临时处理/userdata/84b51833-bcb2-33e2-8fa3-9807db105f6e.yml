@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 10.189.53.65
+lastAccountName: ppp
+logoutlocation:
+  pitch: 17.699972
+  world: mczju_nether
+  x: -11.479599344856538
+  y: 64.0
+  yaw: 119.099945
+  z: -2.209270660970334
+money: '408.0'
+timestamps:
+  lastteleport: 1420775496633
+  login: 1420775378230
+  logout: 1420775880816

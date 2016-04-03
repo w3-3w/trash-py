@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.180.30.95
+lastAccountName: yrzr
+lastlocation:
+  pitch: 15.600034
+  world: Resource
+  x: -226.0935963614943
+  y: 50.0
+  yaw: 176.40163
+  z: -416.72887434231234
+logoutlocation:
+  pitch: 35.54993
+  world: world
+  x: -296.5182579246775
+  y: 21.0
+  yaw: -356.9951
+  z: 1880.9821727010792
+money: '12606.0'
+timestamps:
+  lastteleport: 1412823773927
+  login: 1417852818200
+  logout: 1417857055486
+uuid: 65690543-d976-3cea-abf0-64f1063c7e7c

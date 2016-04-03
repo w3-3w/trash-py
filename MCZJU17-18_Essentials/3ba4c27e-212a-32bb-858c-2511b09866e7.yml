@@ -1,0 +1,21 @@
+ipAddress: 10.189.40.210
+lastAccountName: whatfu
+lastlocation:
+  pitch: 7.499973
+  world: world
+  x: 2.835994970745175
+  y: 57.0
+  yaw: -311.9977
+  z: 41.24962357170478
+logoutlocation:
+  pitch: 48.600044
+  world: world
+  x: 11.528579281056942
+  y: 76.0
+  yaw: -175.49988
+  z: -410.06511178678176
+timestamps:
+  lastteleport: 1414112577023
+  login: 1414112534214
+  logout: 1414112788308
+uuid: 3ba4c27e-212a-32bb-858c-2511b09866e7

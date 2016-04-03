@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.97.8
+lastAccountName: melody
+lastlocation:
+  pitch: 4.6499968
+  world: world_nether
+  x: 65.02674803391825
+  y: 128.0
+  yaw: -90.12695
+  z: 0.5828527792061289
+logoutlocation:
+  pitch: 9.450032
+  world: world_nether
+  x: -201.1908893298264
+  y: 64.0
+  yaw: 5.9969482
+  z: 355.7083979486637
+socialspy: false
+timestamps:
+  lastteleport: 1388045674968
+  login: 1415284668251
+  logout: 1415286097785
+uuid: 86e1de02-f9bc-3a7b-a2c0-14dbd503cd68

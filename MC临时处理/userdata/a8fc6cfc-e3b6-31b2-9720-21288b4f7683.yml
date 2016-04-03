@@ -1,0 +1,18 @@
+ban:
+  reason: "\xA74\u5DF2\u5C01\u7981:\n\xA7r \u8BF7\u6CE8\u610F\u884C\u4E3A\u89C4\u8303\
+    \uFF0C\u6CE8\u610F\u670D\u52A1\u5668\u89C4\u5219\u3002\u6B32\u89E3\u7981\u8BF7\
+    \u5230\u7FA4\u91CC\u53D1\u7533\u8BF7\u3002"
+  timeout: 0
+ipAddress: 10.15.173.174
+lastAccountName: sunny
+logoutlocation:
+  pitch: -67.34996
+  world: world
+  x: -157.6815962807434
+  y: 59.019239457667105
+  yaw: -340.65005
+  z: 26.690152335398434
+socialspy: false
+timestamps:
+  login: 1405420704956
+  logout: 1405421202400

@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.106.223
+lastAccountName: zhong
+lastlocation:
+  pitch: 4.799975
+  world: world
+  x: 89.45841681310644
+  y: 29.0
+  yaw: -356.02225
+  z: 73.36542166539378
+logoutlocation:
+  pitch: 25.049862
+  world: world
+  x: 1430.9962404142289
+  y: 70.0
+  yaw: 72.8746
+  z: -41.42188074556491
+money: '7626.0'
+socialspy: false
+timestamps:
+  lastteleport: 1407242167293
+  login: 1408963546565
+  logout: 1408970172825
+uuid: 88506fb5-5cc9-3614-a4df-3ef86591355c

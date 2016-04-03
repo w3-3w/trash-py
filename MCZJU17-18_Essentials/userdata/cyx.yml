@@ -1,0 +1,23 @@
+socialspy: false
+timestamps:
+  login: 1419001445793
+  logout: 1419004246280
+  lastteleport: 1413214731195
+ipAddress: 222.205.15.159
+afk: false
+logoutlocation:
+  world: world
+  x: -146.34306793155739
+  y: 71.0
+  z: -367.39920127788986
+  yaw: 83.54933
+  pitch: 38.550064
+lastlocation:
+  world: world
+  x: 22.24441066117226
+  y: 66.0
+  z: -473.4025612714227
+  yaw: -145.89731
+  pitch: 12.300143
+money: '29652.0'
+uuid: 5b797831-a88b-3b88-bccb-091207b350fe

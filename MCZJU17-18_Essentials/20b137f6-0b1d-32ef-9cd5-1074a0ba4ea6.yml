@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.104.100
+lastAccountName: www
+lastlocation:
+  pitch: 6.899975
+  world: world
+  x: 2.425967360782268
+  y: 57.0
+  yaw: 32.55224
+  z: 41.73422484681275
+logoutlocation:
+  pitch: 19.500032
+  world: ZJU
+  x: -88.25257830014795
+  y: 65.0
+  yaw: 39.14573
+  z: -5.960848155513191
+money: '0'
+socialspy: false
+timestamps:
+  lastteleport: 1413533723522
+  login: 1413641857839
+  logout: 1413643820550
+uuid: 20b137f6-0b1d-32ef-9cd5-1074a0ba4ea6

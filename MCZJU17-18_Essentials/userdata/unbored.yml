@@ -1,0 +1,23 @@
+socialspy: false
+timestamps:
+  login: 1415028661970
+  logout: 1415031344908
+  lastteleport: 1415031315365
+ipAddress: 10.110.46.215
+logoutlocation:
+  world: ZJU
+  x: -91.050493930683
+  y: 65.0
+  z: -0.9446254160956531
+  yaw: -198.14967
+  pitch: 0.30000848
+lastlocation:
+  world: ZJU
+  x: -126.8138802454129
+  y: 78.10604050049291
+  z: 1404.9468381620848
+  yaw: -179.84966
+  pitch: 9.449994
+afk: false
+money: '352.0'
+uuid: cde50324-cdd5-31ef-85ad-78fa37d09745

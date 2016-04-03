@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 10.189.13.88
+lastAccountName: Ventus
+logoutlocation:
+  pitch: 26.549995
+  world: mczju
+  x: -752.5570718552859
+  y: 63.5625
+  yaw: -173.70027
+  z: -908.959798409112
+money: '9000.0'
+timestamps:
+  lastteleport: 1419504552530
+  login: 1420880129135
+  logout: 1420880375803

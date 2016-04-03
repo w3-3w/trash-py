@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 10.190.64.35
+lastAccountName: food
+lastlocation:
+  pitch: 6.9505787
+  world: world
+  x: 3.5
+  y: 73.0
+  yaw: -3.0459042
+  z: -369.5
+logoutlocation:
+  pitch: 12.338638
+  world: world
+  x: -3.0289555171001368
+  y: 68.0
+  yaw: 10.690491
+  z: -12.911537752635912
+timestamps:
+  lastteleport: 1415027379177
+  login: 1416140815376
+  logout: 1416141026526
+uuid: 4a8c6fb5-bc39-3238-85c7-4253330335af

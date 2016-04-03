@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.190.64.81
+lastAccountName: mybesthd
+lastlocation:
+  pitch: 12.149951
+  world: Resource
+  x: -0.18317979766055925
+  y: 204.0
+  yaw: 94.35006
+  z: -0.0037401517798359984
+logoutlocation:
+  pitch: 21.449965
+  world: world
+  x: 297.54292891098027
+  y: 82.5
+  yaw: -219.90366
+  z: -143.12586066940935
+money: '10826.0'
+timestamps:
+  lastteleport: 1412972943870
+  login: 1415805915810
+  logout: 1415806865768
+uuid: e891a0ca-fa14-3446-9a2a-fe8dd1d0f3b6

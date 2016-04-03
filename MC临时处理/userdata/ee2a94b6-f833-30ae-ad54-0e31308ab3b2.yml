@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 222.205.2.214
+lastAccountName: DOCTOR
+logoutlocation:
+  pitch: 43.349937
+  world: mczju
+  x: -249.49779963401593
+  y: 72.0
+  yaw: -180.75175
+  z: -273.14382928807004
+money: '876.0'
+timestamps:
+  lastteleport: 1412135086337
+  login: 1421075478580
+  logout: 1421076199855

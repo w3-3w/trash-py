@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.21.134
+lastAccountName: onehoho
+lastlocation:
+  pitch: 12.000022
+  world: world
+  x: -4.38166270617653
+  y: 73.0
+  yaw: -262.05743
+  z: 0.7528581374456822
+logoutlocation:
+  pitch: 34.5
+  world: Resource
+  x: 58.26754706124178
+  y: 217.57604216492206
+  yaw: 55.94565
+  z: 39.66009294446222
+money: '21.0'
+socialspy: false
+timestamps:
+  lastteleport: 1391684290007
+  login: 1416541059396
+  logout: 1416542890502
+uuid: adfdb49b-9014-3b37-a63e-105b7a288921

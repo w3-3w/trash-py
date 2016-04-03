@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 222.205.1.20
+lastAccountName: cyx_special
+logoutlocation:
+  pitch: 55.650066
+  world: world
+  x: -137.73861343604625
+  y: 66.0
+  yaw: 321.14966
+  z: -359.47866854558845
+money: '14500.0'
+socialspy: false
+timestamps:
+  lastteleport: 1414477772694
+  login: 1419695053639
+  logout: 1419695231953

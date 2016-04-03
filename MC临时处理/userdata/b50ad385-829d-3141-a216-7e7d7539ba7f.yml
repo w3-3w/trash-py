@@ -1,0 +1,15 @@
+ban:
+  reason: "\xA74\u5DF2\u5C01\u7981:\n\xA7r \u4EFB\u6027\uFF01"
+  timeout: 0
+ipAddress: 10.190.64.35
+lastAccountName: notch
+logoutlocation:
+  pitch: 8.739218
+  world: world
+  x: -0.9139275059170258
+  y: 68.0
+  yaw: 308.73584
+  z: -9.048265802485323
+timestamps:
+  login: 1416140371539
+  logout: 1416141024026

@@ -1,0 +1,21 @@
+afk: false
+ipAddress: 10.189.162.161
+lastAccountName: hyywestwood
+lastlocation:
+  pitch: 2.2499611
+  world: world
+  x: 11.323849949356056
+  y: 68.0
+  yaw: -9.17926
+  z: 43.860867346273224
+logoutlocation:
+  pitch: 10.049956
+  world: world
+  x: -31.61830999875129
+  y: 63.0
+  yaw: -321.61816
+  z: -311.9043278360821
+timestamps:
+  login: 1414646001434
+  logout: 1414647455289
+uuid: e5fd22fb-b902-37e0-8edd-fbf36c98f7d2

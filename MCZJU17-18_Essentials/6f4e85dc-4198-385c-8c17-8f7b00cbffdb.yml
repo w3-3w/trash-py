@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.104.121
+lastAccountName: kawaiimare
+lastlocation:
+  pitch: 4.3499875
+  world: world_nether
+  x: 64.0139661351293
+  y: 128.0
+  yaw: -91.92639
+  z: 0.42114249723650976
+logoutlocation:
+  pitch: -5.400013
+  world: world
+  x: -52.35209402973274
+  y: 97.0
+  yaw: -215.98914
+  z: 73.02687791660996
+money: '233'
+socialspy: false
+timestamps:
+  lastteleport: 1388511534684
+  login: 1412684510690
+  logout: 1412685222808
+uuid: 6f4e85dc-4198-385c-8c17-8f7b00cbffdb

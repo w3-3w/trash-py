@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 222.205.34.214
+lastAccountName: kakario
+lastlocation:
+  pitch: 12.300006
+  world: ZJU
+  x: 769.6978351435539
+  y: 101.00556843894739
+  yaw: 142.05008
+  z: 163.5819340952931
+logoutlocation:
+  pitch: -10.649864
+  world: ZJU
+  x: 802.0704850969122
+  y: 67.31188271554451
+  yaw: -261.0011
+  z: 140.21477793185238
+timestamps:
+  lastteleport: 1416117164561
+  login: 1416117086725
+  logout: 1416117507954
+uuid: c4dee824-f20d-306c-9e23-dfd77f8d4f88

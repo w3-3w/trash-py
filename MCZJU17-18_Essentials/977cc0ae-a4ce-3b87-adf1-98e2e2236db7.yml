@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 222.205.27.72
+lastAccountName: miao
+lastlocation:
+  pitch: 60.150013
+  world: world
+  x: 0.5703308101909011
+  y: 125.0
+  yaw: -3.9056396
+  z: -43.343816786787905
+logoutlocation:
+  pitch: 14.25004
+  world: world
+  x: -120.8320654038067
+  y: 69.0
+  yaw: -255.15344
+  z: -120.33824546407978
+money: '150.0'
+timestamps:
+  login: 1418987322951
+  logout: 1418994388748
+uuid: 977cc0ae-a4ce-3b87-adf1-98e2e2236db7

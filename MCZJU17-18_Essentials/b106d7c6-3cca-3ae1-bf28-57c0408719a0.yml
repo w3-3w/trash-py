@@ -1,0 +1,26 @@
+afk: false
+ban:
+  reason: "\u5DF2\u4E34\u65F6\u88AB\u670D\u52A1\u5668\u5C01\u7981,\u7406\u7531:1 \u79D2"
+  timeout: 0
+ipAddress: 10.189.173.194
+lastAccountName: liper
+lastlocation:
+  pitch: -0.89999753
+  world: world
+  x: 3.5
+  y: 73.0
+  yaw: -0.8998413
+  z: -369.5
+logoutlocation:
+  pitch: 9.345206
+  world: Resource
+  x: 154.21627343052066
+  y: 25.0
+  yaw: -172.93097
+  z: -545.5089946615507
+money: '82923.0'
+timestamps:
+  lastteleport: 1415533295996
+  login: 1417346634055
+  logout: 1417348639335
+uuid: b106d7c6-3cca-3ae1-bf28-57c0408719a0

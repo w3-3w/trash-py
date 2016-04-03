@@ -1,0 +1,25 @@
+uuid: b106d7c6-3cca-3ae1-bf28-57c0408719a0
+timestamps:
+  login: 1417346634055
+  logout: 1417348639335
+  lastteleport: 1415533295996
+ipAddress: 10.189.173.194
+logoutlocation:
+  world: Resource
+  x: 154.21627343052066
+  y: 25.0
+  z: -545.5089946615507
+  yaw: -172.93097
+  pitch: 9.345206
+money: '82923.0'
+lastlocation:
+  world: world
+  x: 3.5
+  y: 73.0
+  z: -369.5
+  yaw: -0.8998413
+  pitch: -0.89999753
+afk: false
+ban:
+  reason: "\u5df2\u4e34\u65f6\u88ab\u670d\u52a1\u5668\u5c01\u7981,\u7406\u7531:1 \u79d2"
+  timeout: 0

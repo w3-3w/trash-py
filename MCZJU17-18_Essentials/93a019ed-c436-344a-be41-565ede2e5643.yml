@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.49.161
+lastAccountName: baidandan
+lastlocation:
+  pitch: 21.60003
+  world: world
+  x: 0.24129020712000465
+  y: 125.0
+  yaw: -353.20142
+  z: -42.29980302246972
+logoutlocation:
+  pitch: -10.350004
+  world: world
+  x: 330.8510218509073
+  y: 66.0
+  yaw: 76.99912
+  z: -549.9143042573132
+money: '33457.0'
+socialspy: false
+timestamps:
+  lastteleport: 1411209561710
+  login: 1411216624845
+  logout: 1411216967627
+uuid: 93a019ed-c436-344a-be41-565ede2e5643

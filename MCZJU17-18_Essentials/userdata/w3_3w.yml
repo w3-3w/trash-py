@@ -1,0 +1,27 @@
+socialspy: false
+timestamps:
+  login: 1417363089736
+  logout: 1417363184043
+  lastteleport: 1417363102642
+  kits:
+    firework: 1413011858169
+ipAddress: 222.205.106.209
+logoutlocation:
+  world: world
+  x: -9.080233737574664
+  y: 68.0
+  z: -2.3544501018345603
+  yaw: -84.5978
+  pitch: 9.899958
+lastlocation:
+  world: world
+  x: -2015.7551719151966
+  y: 72.0
+  z: 115.69999998807907
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+money: '0'
+uuid: 19e505ce-7e73-3229-b318-85fa13c4c5ab
+unlimited:
+- 332

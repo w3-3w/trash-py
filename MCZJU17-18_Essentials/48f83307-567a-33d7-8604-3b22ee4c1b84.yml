@@ -1,0 +1,20 @@
+ipAddress: 210.32.170.28
+lastAccountName: ghost
+lastlocation:
+  pitch: 21.150038
+  world: ZJU
+  x: -1.9940981197932786
+  y: 66.0
+  yaw: 280.80084
+  z: 0.9361612314227337
+logoutlocation:
+  pitch: 68.25001
+  world: ZJU
+  x: 499.58387091382014
+  y: 93.0127821573633
+  yaw: 212.25928
+  z: -0.7012336360021904
+timestamps:
+  login: 1414415149547
+  logout: 1414415684153
+uuid: 48f83307-567a-33d7-8604-3b22ee4c1b84

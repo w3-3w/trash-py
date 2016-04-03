@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.34.66
+lastAccountName: windows
+lastlocation:
+  pitch: 45.149994
+  world: Resource
+  x: -535.4859310825808
+  y: 30.0
+  yaw: 2.2502441
+  z: 24.040195466162103
+logoutlocation:
+  pitch: 47.849976
+  world: world
+  x: 749.1999263782059
+  y: 64.0
+  yaw: 93.1496
+  z: -4.555761539454141
+money: '8692.0'
+socialspy: false
+timestamps:
+  lastteleport: 1416807173269
+  login: 1417348497392
+  logout: 1417348646838
+uuid: 3d6b4b82-cd3a-3e63-b94e-62a85eb377c9

@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.45.138
+lastAccountName: jiye
+lastlocation:
+  pitch: 8.400003
+  world: world
+  x: 3.139258432206305
+  y: 73.0
+  yaw: -13.199862
+  z: -367.91832344413905
+logoutlocation:
+  pitch: 1.0541082e-05
+  world: world
+  x: 4911.635149490059
+  y: 9.0
+  yaw: 2.4006348
+  z: 5154.353064088069
+money: '32.0'
+timestamps:
+  lastteleport: 1415691439015
+  login: 1417841138765
+  logout: 1417844344088
+uuid: 8a5c79e1-6d1c-3c5d-9c2a-2a4905a30afe

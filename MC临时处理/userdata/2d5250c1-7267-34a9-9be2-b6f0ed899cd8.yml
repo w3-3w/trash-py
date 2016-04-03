@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 10.15.173.174
+lastAccountName: justwe
+logoutlocation:
+  pitch: 11.549995
+  world: world
+  x: 8.33977139803098
+  y: 68.0
+  yaw: -8.239456
+  z: 13.688010212755069
+money: '24.0'
+socialspy: false
+timestamps:
+  lastteleport: 1396154147040
+  login: 1396944248362
+  logout: 1396944349462

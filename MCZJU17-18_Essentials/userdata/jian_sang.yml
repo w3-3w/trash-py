@@ -1,0 +1,21 @@
+uuid: de76c7cb-b4dc-3ca7-a00c-54d0f7514d55
+timestamps:
+  login: 1418980101356
+  logout: 1418981430252
+ipAddress: 222.205.25.14
+logoutlocation:
+  world: world
+  x: -2529.133873660026
+  y: 54.0
+  z: 1566.94758398567
+  yaw: -328.0487
+  pitch: 2.6999044
+afk: false
+lastlocation:
+  world: world_nether
+  x: -3.754834387241134
+  y: 22.02113238593581
+  z: 5.762373104452623
+  yaw: 36.900642
+  pitch: 0.599978
+money: '604.0'

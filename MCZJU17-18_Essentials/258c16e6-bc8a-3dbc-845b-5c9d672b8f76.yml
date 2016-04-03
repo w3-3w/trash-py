@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 210.32.188.147
+lastAccountName: searain
+lastlocation:
+  pitch: -87.60002
+  world: world
+  x: 0.5403479899095088
+  y: 125.0
+  yaw: -353.84827
+  z: -43.372269571109584
+logoutlocation:
+  pitch: 36.300003
+  world: Resource
+  x: -3.6889262094373128
+  y: 11.0
+  yaw: -291.15015
+  z: -21.18237048314271
+money: '18.0'
+socialspy: false
+timestamps:
+  lastteleport: 1393652832372
+  login: 1418708528959
+  logout: 1418710849648
+uuid: 258c16e6-bc8a-3dbc-845b-5c9d672b8f76

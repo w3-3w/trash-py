@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.45.67
+lastAccountName: ppp
+lastlocation:
+  pitch: 12.449985
+  world: Resource
+  x: 0.5051170128863305
+  y: 204.0
+  yaw: 3.7500284
+  z: 1.5718154900147996
+logoutlocation:
+  pitch: 16.049957
+  world: Resource
+  x: -65.28177853982682
+  y: 23.0
+  yaw: 239.70001
+  z: -716.8625827754547
+money: '508.0'
+timestamps:
+  lastteleport: 1414335147945
+  login: 1417965187433
+  logout: 1417965301857
+uuid: 84b51833-bcb2-33e2-8fa3-9807db105f6e

@@ -1,0 +1,23 @@
+ipAddress: 222.205.99.196
+lastAccountName: situku
+lastlocation:
+  pitch: -1.1999782
+  world: world
+  x: 54.07160975024125
+  y: 73.0
+  yaw: 298.34424
+  z: 107.28707903698623
+logoutlocation:
+  pitch: 24.300026
+  world: world
+  x: 287.15646290733696
+  y: 53.0
+  yaw: 127.636475
+  z: 817.7316492877798
+money: '31'
+socialspy: false
+timestamps:
+  lastteleport: 1397903961468
+  login: 1397902196101
+  logout: 1397911337401
+uuid: 21a358b6-52ec-394a-9c75-c2ae65816c3f

@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 210.32.165.45
+lastAccountName: john
+lastlocation:
+  pitch: 4.949992
+  world: world
+  x: 54.92371053081903
+  y: 73.0
+  yaw: 270.75006
+  z: 108.37386608213386
+logoutlocation:
+  pitch: -40.049973
+  world: world
+  x: 15.08916212949131
+  y: 68.5
+  yaw: -47.39969
+  z: -1459.0806983975056
+money: '156.0'
+socialspy: false
+timestamps:
+  lastteleport: 1396618659876
+  login: 1398348126337
+  logout: 1397645603269
+uuid: 9c5ce314-a879-35ce-b54c-7fd3ff05419f

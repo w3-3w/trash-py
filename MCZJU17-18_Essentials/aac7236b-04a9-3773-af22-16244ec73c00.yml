@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.59.249
+lastAccountName: '0_0'
+lastlocation:
+  pitch: 8.399991
+  world: world
+  x: 55.09154375807118
+  y: 73.0
+  yaw: -102.15023
+  z: 109.00868534275575
+logoutlocation:
+  pitch: 45.150143
+  world: world
+  x: 0.8427168369426283
+  y: 73.0
+  yaw: 106.807686
+  z: -46.103070150910064
+socialspy: false
+timestamps:
+  lastteleport: 1396282964163
+  login: 1414990308383
+  logout: 1414990345961
+uuid: aac7236b-04a9-3773-af22-16244ec73c00

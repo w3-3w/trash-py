@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 222.205.4.4
+lastAccountName: ice_kirsch
+logoutlocation:
+  pitch: -1.1999989
+  world: mczju
+  x: -834.3406175560958
+  y: 75.0
+  yaw: -255.29926
+  z: 229.1022259933884
+money: '1280.0'
+socialspy: false
+timestamps:
+  lastteleport: 1412950433959
+  login: 1422595561246
+  logout: 1422597064523

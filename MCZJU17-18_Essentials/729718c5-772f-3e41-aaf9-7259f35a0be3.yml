@@ -1,0 +1,22 @@
+ipAddress: 10.180.50.132
+lastAccountName: big
+lastlocation:
+  pitch: 2.8500056
+  world: world
+  x: 54.00022741093056
+  y: 73.0
+  yaw: -88.35021
+  z: 108.89104687935401
+logoutlocation:
+  pitch: 5.8500485
+  world: world_nether
+  x: 22.792783107811875
+  y: 64.0
+  yaw: 89.709984
+  z: 25.069033277393192
+socialspy: false
+timestamps:
+  lastteleport: 1396154597701
+  login: 1396154334774
+  logout: 1396154792602
+uuid: 729718c5-772f-3e41-aaf9-7259f35a0be3

@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 10.171.177.45
+lastAccountName: ji_ye
+lastlocation:
+  pitch: 28.799988
+  world: ZJU
+  x: -542.6062180388877
+  y: 60.0
+  yaw: -159.44861
+  z: -599.1534401169595
+logoutlocation:
+  pitch: 90.0
+  world: ZJU
+  x: -665.618089218833
+  y: 159.9972798925173
+  yaw: 111.15259
+  z: -801.1171900283985
+timestamps:
+  lastteleport: 1415019292843
+  login: 1415687267002
+  logout: 1415687283303
+uuid: eb0484fd-d9ae-3a51-8846-d3896a43d3b4

@@ -1,0 +1,28 @@
+socialspy: false
+timestamps:
+  login: 1411118311842
+  lastteleport: 1411117042313
+  logout: 1411123900121
+  lastheal: 1396330172542
+ipAddress: 10.180.66.115
+lastlocation:
+  world: world
+  x: 944.2317234590251
+  y: 66.0
+  z: 455.2687053163876
+  yaw: -117.44638
+  pitch: 15.599958
+logoutlocation:
+  world: world
+  x: 5356.214716230023
+  y: 65.0
+  z: -4647.183427633632
+  yaw: -309.73462
+  pitch: -2.549995
+afk: false
+money: '1178.0'
+uuid: cb48a1a6-2165-3e89-8fcc-c5be19d49b5b
+ban:
+  reason: "\xa74\u5df2\u5c01\u7981:\n\xa7r \u7be1\u6539\u6743\u9650\uff0c\u4e0d\u89e3\
+    \u91ca\u3002"
+  timeout: 0

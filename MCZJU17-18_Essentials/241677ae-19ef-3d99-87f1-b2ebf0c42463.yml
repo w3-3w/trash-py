@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.15.173.174
+lastAccountName: bryandeng
+lastlocation:
+  pitch: 26.69993
+  world: Resource
+  x: 0.4649568006277489
+  y: 204.0
+  yaw: 53.400093
+  z: -0.02358177164695116
+logoutlocation:
+  pitch: 4.049988
+  world: world
+  x: -28.233399554488862
+  y: 80.0
+  yaw: -222.89598
+  z: -124.95293590759718
+money: '708.0'
+socialspy: false
+timestamps:
+  lastteleport: 1409557424028
+  login: 1411634207319
+  logout: 1411634601412
+uuid: 241677ae-19ef-3d99-87f1-b2ebf0c42463

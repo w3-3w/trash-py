@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.96.227
+lastAccountName: kingrui
+lastlocation:
+  pitch: -2.5499966
+  world: world
+  x: 89.53472774127847
+  y: 29.0
+  yaw: -1.4215698
+  z: 73.54003611677729
+logoutlocation:
+  pitch: 33.449837
+  world: world
+  x: 1430.3577305170181
+  y: 70.0
+  yaw: 109.22513
+  z: -39.998492479167595
+money: '8823.0'
+socialspy: false
+timestamps:
+  lastteleport: 1408368837667
+  login: 1408963531432
+  logout: 1408970152826
+uuid: 94e4c766-7a0b-335b-8bd5-62a130412b43

@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.171.177.40
+lastAccountName: hyy6
+lastlocation:
+  pitch: 0.90000105
+  world: world
+  x: 3.5
+  y: 73.0
+  yaw: 0.60019475
+  z: -369.5
+logoutlocation:
+  pitch: -40.79999
+  world: Resource
+  x: 100.30000001192093
+  y: 27.0
+  yaw: 184.95001
+  z: -3.6999999880790706
+money: '4.0'
+timestamps:
+  lastteleport: 1415845963345
+  login: 1418477218441
+  logout: 1418477289606
+uuid: d2097c95-3950-3a13-9036-f8a77b5e4329

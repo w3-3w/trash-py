@@ -1,0 +1,26 @@
+socialspy: false
+timestamps:
+  login: 1404558407207
+  logout: 1404558426107
+  lastteleport: 1400245255151
+  kits:
+    firework: 1387899749953
+ipAddress: 10.180.77.198
+logoutlocation:
+  world: Island
+  x: 2.300000011920929
+  y: 143.0
+  z: 6.508316669934446
+  yaw: 63.000988
+  pitch: 11.999991
+lastlocation:
+  world: world
+  x: 44.60230499393783
+  y: 63.0
+  z: 112.91086153629927
+  yaw: -198.15048
+  pitch: -6.899998
+afk: false
+money: '0.0'
+homes: {}
+uuid: 0d3a5662-9c33-3794-a985-36cc74152e34

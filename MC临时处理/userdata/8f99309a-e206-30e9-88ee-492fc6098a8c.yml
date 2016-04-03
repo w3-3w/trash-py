@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 222.205.55.205
+lastAccountName: sakuya_b
+logoutlocation:
+  pitch: 26.249983
+  world: world
+  x: -2290.5236975567686
+  y: 63.0
+  yaw: -189.00017
+  z: 2779.3170247678568
+money: '5527.0'
+timestamps:
+  lastteleport: 1421992921660
+  login: 1422464926557
+  logout: 1422464979686

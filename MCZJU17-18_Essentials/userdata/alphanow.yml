@@ -1,0 +1,19 @@
+uuid: ec260485-ecc8-30d8-8674-8ac18db3a3b8
+timestamps:
+  login: 1412045743882
+  logout: 1412046299787
+ipAddress: 10.189.60.139
+lastlocation:
+  world: world
+  x: 0.7396405962468269
+  y: 125.0
+  z: -43.401291215014844
+  yaw: -240.7478
+  pitch: 67.65009
+logoutlocation:
+  world: world
+  x: 25.49170078839515
+  y: 62.875
+  z: 116.7635471228659
+  yaw: 14.5520935
+  pitch: 6.6001086

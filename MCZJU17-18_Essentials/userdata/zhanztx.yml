@@ -1,0 +1,22 @@
+uuid: c563b33c-99e8-32ce-aa68-d703a4e20dea
+timestamps:
+  login: 1418905538124
+  logout: 1418915763617
+  lastteleport: 1417444460331
+ipAddress: 10.141.31.13
+lastlocation:
+  world: Island
+  x: 1.6783483815871556
+  y: 143.0
+  z: 5.70997398392821
+  yaw: 9.169595
+  pitch: 6.922323
+logoutlocation:
+  world: world
+  x: 3.0
+  y: 68.0
+  z: 1.0
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+money: '506.0'

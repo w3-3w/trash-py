@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.105.16
+lastAccountName: cirno
+lastlocation:
+  pitch: 2.3999033
+  world: world_nether
+  x: 63.46133547011682
+  y: 128.0
+  yaw: -88.77805
+  z: 0.5517343629548693
+logoutlocation:
+  pitch: -12.149994
+  world: world
+  x: 34.477660787990985
+  y: 64.0
+  yaw: 328.1985
+  z: 152.6282887695405
+socialspy: false
+timestamps:
+  lastteleport: 1390147077739
+  login: 1413798952636
+  logout: 1413799086256
+uuid: 85bee4ae-0d36-3c26-ba60-651531963f8a

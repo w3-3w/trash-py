@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 10.190.64.18
+lastAccountName: '8019'
+logoutlocation:
+  pitch: -11.700015
+  world: world
+  x: -242.00078977896015
+  y: 50.0
+  yaw: -2.8764648
+  z: -816.455414488604
+money: '390.0'
+socialspy: false
+timestamps:
+  lastteleport: 1415098976998
+  login: 1416117479947
+  logout: 1416124525876

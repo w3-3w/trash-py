@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 10.190.64.81
+lastAccountName: Iridle
+logoutlocation:
+  pitch: 34.02871
+  world: mczju
+  x: -452.764275359193
+  y: 95.0
+  yaw: -358.7428
+  z: 62.81730404324647
+money: '26274.0'
+timestamps:
+  lastteleport: 1417325105556
+  login: 1423306759239
+  logout: 1423314652260

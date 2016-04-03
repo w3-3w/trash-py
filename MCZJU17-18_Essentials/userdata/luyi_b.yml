@@ -1,0 +1,21 @@
+uuid: 825367f5-8edf-34aa-8de7-45a981efbe98
+timestamps:
+  login: 1414989320506
+  logout: 1414989460460
+  lastteleport: 1413735236718
+ipAddress: 222.205.59.249
+logoutlocation:
+  world: ZJU
+  x: -1.0318678387279645
+  y: 71.54755192086665
+  z: 31.55574932067426
+  yaw: 106.35062
+  pitch: 10.499953
+lastlocation:
+  world: ZJU
+  x: -113.9608105742929
+  y: 67.1033432210025
+  z: -35.78383788969706
+  yaw: 23.098484
+  pitch: 21.749777
+afk: false

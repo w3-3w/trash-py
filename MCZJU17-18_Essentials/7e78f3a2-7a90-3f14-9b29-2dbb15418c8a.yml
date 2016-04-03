@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 10.180.68.233
+lastAccountName: poly_zxy
+lastlocation:
+  pitch: 12.449972
+  world: world
+  x: 0.42416168896873585
+  y: 125.0
+  yaw: -1.947998
+  z: -42.541202328221615
+logoutlocation:
+  pitch: 7.0499954
+  world: Resource
+  x: -340.43268778305867
+  y: 35.0
+  yaw: -176.69969
+  z: -792.6999999880791
+money: '253.0'
+timestamps:
+  login: 1415421680281
+  logout: 1415421999527
+uuid: 7e78f3a2-7a90-3f14-9b29-2dbb15418c8a

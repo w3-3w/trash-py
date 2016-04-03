@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.189.195.90
+lastAccountName: still
+lastlocation:
+  pitch: 51.149975
+  world: Island
+  x: -506.54186955336525
+  y: 110.0
+  yaw: 192.45172
+  z: 4.033695013491684
+logoutlocation:
+  pitch: 36.600025
+  world: world
+  x: -4584.469620094947
+  y: 70.0
+  yaw: 51.44973
+  z: -4249.853113145556
+money: '10659.0'
+timestamps:
+  lastteleport: 1417880812596
+  login: 1418998333243
+  logout: 1418998771636
+uuid: d865935b-c53c-3074-a643-77342db7f5fe

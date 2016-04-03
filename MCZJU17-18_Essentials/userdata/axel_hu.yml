@@ -1,0 +1,15 @@
+socialspy: false
+timestamps:
+  login: 1407400675250
+  logout: 1407410500280
+ipAddress: 10.15.173.174
+logoutlocation:
+  world: Resource
+  x: 48.47649155407225
+  y: 208.0
+  z: 50.04700515543879
+  yaw: 110.81372
+  pitch: 4.4107437E-6
+uuid: 676711e5-fdbc-3867-a888-fa77cb4cdee5
+money: '0.0'
+afk: false

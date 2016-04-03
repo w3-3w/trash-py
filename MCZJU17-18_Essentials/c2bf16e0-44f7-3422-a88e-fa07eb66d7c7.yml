@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.49.57
+lastAccountName: aldslvda
+lastlocation:
+  pitch: 4.7999964
+  world: world
+  x: 3.445621835737978
+  y: 73.0
+  yaw: 0.00022058487
+  z: -368.6739972884794
+logoutlocation:
+  pitch: 0.0
+  world: Resource
+  x: -248.0
+  y: 194.125
+  yaw: 0.0
+  z: -395.0
+money: '4674.0'
+timestamps:
+  lastteleport: 1415340861220
+  login: 1417176627188
+  logout: 1417177653838
+uuid: c2bf16e0-44f7-3422-a88e-fa07eb66d7c7

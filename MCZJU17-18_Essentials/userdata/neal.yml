@@ -1,0 +1,20 @@
+uuid: caabfe65-e87d-3baa-acd4-1ad74484cc03
+timestamps:
+  login: 1413009399289
+  logout: 1413009932984
+ipAddress: 222.205.111.38
+logoutlocation:
+  world: world
+  x: 2.174024272292046
+  y: 57.0
+  z: 40.98719766997531
+  yaw: 98.40186
+  pitch: 29.84998
+money: '213.0'
+lastlocation:
+  world: world
+  x: 0.1424102279937514
+  y: 125.0
+  z: -43.81535955401841
+  yaw: 112.05194
+  pitch: 66.89997

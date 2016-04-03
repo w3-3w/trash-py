@@ -1,0 +1,21 @@
+socialspy: false
+uuid: 729718c5-772f-3e41-aaf9-7259f35a0be3
+timestamps:
+  login: 1396154334774
+  logout: 1396154792602
+  lastteleport: 1396154597701
+ipAddress: 10.180.50.132
+logoutlocation:
+  world: world_nether
+  x: 22.792783107811875
+  y: 64.0
+  z: 25.069033277393192
+  yaw: 89.709984
+  pitch: 5.8500485
+lastlocation:
+  world: world
+  x: 54.00022741093056
+  y: 73.0
+  z: 108.89104687935401
+  yaw: -88.35021
+  pitch: 2.8500056

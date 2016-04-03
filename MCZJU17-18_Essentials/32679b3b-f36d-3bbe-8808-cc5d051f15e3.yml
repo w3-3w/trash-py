@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.189.52.59
+lastAccountName: jian_ai
+lastlocation:
+  pitch: 54.300003
+  world: world
+  x: -2525.408652527479
+  y: 72.0
+  yaw: 235.7834
+  z: 1442.6761318246215
+logoutlocation:
+  pitch: 9.8999815
+  world: world
+  x: 320.4908587878803
+  y: 66.0
+  yaw: 178.2
+  z: 244.69999998807907
+money: '5046.8332319'
+timestamps:
+  lastteleport: 1414318373222
+  login: 1417940077861
+  logout: 1417940234980
+uuid: 32679b3b-f36d-3bbe-8808-cc5d051f15e3

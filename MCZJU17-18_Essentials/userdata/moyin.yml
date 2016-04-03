@@ -1,0 +1,20 @@
+uuid: 341f6acf-9f16-3396-9564-f7e1fc3f4fb0
+timestamps:
+  login: 1418113668466
+  logout: 1418119995673
+ipAddress: 10.180.31.61
+logoutlocation:
+  world: world_nether
+  x: 122.69999998807906
+  y: 64.0
+  z: -3.0688006885770394
+  yaw: -315.44797
+  pitch: 9.599975
+money: '222.0'
+lastlocation:
+  world: world
+  x: 3.0893605382049163
+  y: 124.0
+  z: -39.61410845551336
+  yaw: -325.50018
+  pitch: 14.849978

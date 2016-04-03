@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 10.110.46.215
+lastAccountName: unbored
+logoutlocation:
+  pitch: 0.30000848
+  world: ZJU
+  x: -91.050493930683
+  y: 65.0
+  yaw: -198.14967
+  z: -0.9446254160956531
+money: '352.0'
+socialspy: false
+timestamps:
+  lastteleport: 1415031315365
+  login: 1415028661970
+  logout: 1415031344908

@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.189.193.188
+lastAccountName: gin
+lastlocation:
+  pitch: -37.800007
+  world: ZJU
+  x: 1.699999988079071
+  y: 1.2000000476837158
+  yaw: -264.91168
+  z: 500.30000001192093
+logoutlocation:
+  pitch: 39.60002
+  world: ZJU
+  x: 11.67011128845602
+  y: 38.35490820389261
+  yaw: -70.95044
+  z: 496.62492216116266
+money: '447.0'
+socialspy: false
+timestamps:
+  lastteleport: 1415118871932
+  login: 1415114503015
+  logout: 1415119272392
+uuid: 719e89c9-e894-3bf7-991a-20409ea1822c

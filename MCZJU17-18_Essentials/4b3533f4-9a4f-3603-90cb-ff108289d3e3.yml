@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.190.65.158
+lastAccountName: da_lan_huo
+lastlocation:
+  pitch: 38.99999
+  world: Resource
+  x: -306.4466740190983
+  y: 193.0
+  yaw: -356.10077
+  z: -788.216065133922
+logoutlocation:
+  pitch: 0.5008482
+  world: Resource
+  x: -265.59252098315994
+  y: 12.0
+  yaw: -0.75127226
+  z: -367.3398421436729
+money: '134'
+socialspy: false
+timestamps:
+  lastteleport: 1414927007175
+  login: 1415367749218
+  logout: 1415367759134
+uuid: 4b3533f4-9a4f-3603-90cb-ff108289d3e3

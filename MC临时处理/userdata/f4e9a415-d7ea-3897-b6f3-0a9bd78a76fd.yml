@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 10.110.5.149
+lastAccountName: plq
+logoutlocation:
+  pitch: 5.399862
+  world: world
+  x: 43.26700045278416
+  y: 69.0
+  yaw: 232.83685
+  z: -1461.099376319877
+money: '44.0'
+socialspy: false
+timestamps:
+  lastteleport: 1396501456695
+  login: 1398244532094
+  logout: 1398244592025

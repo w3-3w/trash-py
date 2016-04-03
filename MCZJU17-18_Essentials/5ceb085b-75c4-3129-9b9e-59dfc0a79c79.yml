@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 210.32.164.100
+lastAccountName: w_ing
+lastlocation:
+  pitch: 58.94999
+  world: world
+  x: 0.7270524356374317
+  y: 125.0
+  yaw: -340.21075
+  z: -43.70716403708314
+logoutlocation:
+  pitch: 40.94994
+  world: world
+  x: 387.1768218356874
+  y: 55.0
+  yaw: -299.11066
+  z: -61.4192901969913
+money: '3904.0'
+timestamps:
+  lastteleport: 1412604226233
+  login: 1414763498475
+  logout: 1414769400633
+uuid: 5ceb085b-75c4-3129-9b9e-59dfc0a79c79

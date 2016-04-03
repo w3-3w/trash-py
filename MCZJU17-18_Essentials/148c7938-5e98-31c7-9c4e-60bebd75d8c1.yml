@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.190.65.197
+lastAccountName: neonkrypton
+lastlocation:
+  pitch: 22.94998
+  world: world
+  x: 3.5
+  y: 68.0
+  yaw: 176.10216
+  z: 1.5
+logoutlocation:
+  pitch: 43.20004
+  world: world
+  x: -117.09675016424805
+  y: 68.0
+  yaw: 273.14963
+  z: -418.95570773794543
+socialspy: false
+timestamps:
+  lastteleport: 1415024744887
+  login: 1416653485723
+  logout: 1416653991784
+uuid: 148c7938-5e98-31c7-9c4e-60bebd75d8c1

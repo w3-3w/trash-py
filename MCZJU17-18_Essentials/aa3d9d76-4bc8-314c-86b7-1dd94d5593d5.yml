@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.13.86
+lastAccountName: ice_kirsch
+lastlocation:
+  pitch: 19.94996
+  world: Resource
+  x: -55.48093976001646
+  y: 205.0
+  yaw: 37.80012
+  z: 18.1776514029536
+logoutlocation:
+  pitch: 21.15002
+  world: world
+  x: -557.1828672319621
+  y: 68.0
+  yaw: 276.5987
+  z: 603.5484314186889
+money: '2683.0'
+socialspy: false
+timestamps:
+  lastteleport: 1412950433959
+  login: 1417182114112
+  logout: 1417182419983
+uuid: aa3d9d76-4bc8-314c-86b7-1dd94d5593d5

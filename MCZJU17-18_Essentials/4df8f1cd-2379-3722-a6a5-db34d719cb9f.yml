@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.180.27.82
+lastAccountName: conanstyle
+lastlocation:
+  pitch: 28.649998
+  world: ZJU
+  x: 85.70499443271078
+  y: 65.0
+  yaw: -6.451294
+  z: -22.104268321327115
+logoutlocation:
+  pitch: 54.149986
+  world: ZJU
+  x: 322.0632350593438
+  y: 65.0
+  yaw: -78.90002
+  z: -15.089258763925843
+money: '514.0'
+socialspy: false
+timestamps:
+  lastteleport: 1413505141808
+  login: 1414806785524
+  logout: 1414806922198
+uuid: 4df8f1cd-2379-3722-a6a5-db34d719cb9f

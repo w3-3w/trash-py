@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 210.32.165.251
+lastAccountName: icicle
+lastlocation:
+  pitch: 55.94997
+  world: world
+  x: 16.998023242948385
+  y: 149.0
+  yaw: -180.74863
+  z: -59.09978799386842
+logoutlocation:
+  pitch: 43.50002
+  world: ZJU
+  x: -104.87168142435924
+  y: 80.94070671822682
+  yaw: 355.05038
+  z: -52.01910179241607
+socialspy: false
+timestamps:
+  login: 1413527623308
+  logout: 1413529183865
+uuid: d288d28a-9ee8-3ad1-836f-96e17b458341

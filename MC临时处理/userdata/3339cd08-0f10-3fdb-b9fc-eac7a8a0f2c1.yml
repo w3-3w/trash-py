@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 10.110.64.183
+lastAccountName: tokamak3
+logoutlocation:
+  pitch: 13.349955
+  world: Resource
+  x: 56.07679574276641
+  y: 223.0
+  yaw: -204.297
+  z: 50.30000001192094
+money: '256.0'
+socialspy: false
+timestamps:
+  login: 1395924549166
+  logout: 1395928734411

@@ -1,0 +1,19 @@
+afk: false
+homes: {}
+ipAddress: 210.32.184.163
+lastAccountName: www_test
+logoutlocation:
+  pitch: 18.3
+  world: world
+  x: -5.923882257333646
+  y: 68.0
+  yaw: -79.35
+  z: 7.344744576950445
+money: '0.0'
+socialspy: false
+timestamps:
+  kits:
+    firework: 1387899749953
+  lastteleport: 1400245255151
+  login: 1419084949462
+  logout: 1419084972420

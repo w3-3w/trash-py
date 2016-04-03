@@ -1,0 +1,13 @@
+ipAddress: 10.189.235.7
+lastAccountName: admin
+logoutlocation:
+  pitch: 0.3
+  world: world
+  x: -1.5
+  y: 68.0
+  yaw: -0.15
+  z: -4.5
+socialspy: false
+timestamps:
+  login: 1417082652057
+  logout: 1417082680808

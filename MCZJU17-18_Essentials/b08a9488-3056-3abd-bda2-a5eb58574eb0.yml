@@ -1,0 +1,21 @@
+ipAddress: 222.205.106.9
+lastAccountName: zhou
+lastlocation:
+  pitch: 31.8
+  world: world
+  x: 0.6802456372093848
+  y: 125.0
+  yaw: -340.948
+  z: -44.5812941749193
+logoutlocation:
+  pitch: 15.149896
+  world: world
+  x: -47.86689511109495
+  y: 82.0
+  yaw: 202.07397
+  z: -29.908865185351267
+socialspy: false
+timestamps:
+  login: 1402226138172
+  logout: 1402231990475
+uuid: b08a9488-3056-3abd-bda2-a5eb58574eb0

@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.105.136
+lastAccountName: qiekenao
+lastlocation:
+  pitch: -0.29999587
+  world: world
+  x: 88.91406821360974
+  y: 29.0
+  yaw: -19.121155
+  z: 73.2933144066269
+logoutlocation:
+  pitch: 5.2499604
+  world: world
+  x: 9.324149191467718
+  y: 68.0
+  yaw: -23.87917
+  z: 37.960691171516714
+socialspy: false
+timestamps:
+  lastteleport: 1412336010872
+  login: 1412335781206
+  logout: 1412336409731
+uuid: 906d570d-c56e-33f6-9632-13d41e9610f3

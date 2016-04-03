@@ -1,0 +1,22 @@
+uuid: 9a474c8d-5d5d-368b-8a36-62f483b701e2
+timestamps:
+  login: 1416729873532
+  logout: 1416729987021
+  lastteleport: 1415466868024
+ipAddress: 10.189.233.208
+logoutlocation:
+  world: world_nether
+  x: 6.987089325945614
+  y: 64.0
+  z: -11.732041747038235
+  yaw: 16.650635
+  pitch: 20.099977
+money: '5984'
+afk: false
+lastlocation:
+  world: world
+  x: 95.0360057797472
+  y: 2.0
+  z: 96.33069797826872
+  yaw: 119.39999
+  pitch: 7.6499944

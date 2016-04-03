@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 222.205.55.205
+lastAccountName: izayoi_sakuya
+lastlocation:
+  pitch: 2.9999855
+  world: world
+  x: 11.679087365184877
+  y: 73.0
+  yaw: -112.19999
+  z: -383.85533592862106
+logoutlocation:
+  pitch: 4.500098
+  world: world
+  x: 14.066708967867577
+  y: 74.0
+  yaw: 64.19419
+  z: -433.32276689627906
+timestamps:
+  lastteleport: 1414063982713
+  login: 1414136923316
+  logout: 1414136933825
+uuid: b8258f03-acd7-361f-8822-a1bbbc01662a

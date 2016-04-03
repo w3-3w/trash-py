@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.0.144
+lastAccountName: xiao
+lastlocation:
+  pitch: 18.750013
+  world: Island
+  x: -506.0483570325753
+  y: 110.0
+  yaw: 6.30194
+  z: 1.414778238407781
+logoutlocation:
+  pitch: 6.599994
+  world: Resource
+  x: -68.99969023619718
+  y: 202.0
+  yaw: -88.35001
+  z: -3.785902233828305
+money: '5550.0'
+timestamps:
+  lastteleport: 1412607493881
+  login: 1416981114315
+  logout: 1416981138366
+uuid: 7a39c12c-3928-3bb7-a73d-07ea8c3f3efe

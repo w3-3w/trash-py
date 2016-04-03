@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 10.190.65.158
+lastAccountName: da_cheng_zi
+logoutlocation:
+  pitch: 12.903488
+  world: world
+  x: 489.5793231964752
+  y: 79.0
+  yaw: -260.187
+  z: 1502.0861800482094
+money: '2794.0'
+socialspy: false
+timestamps:
+  lastteleport: 1415367511507
+  login: 1415369561627
+  logout: 1415375159735

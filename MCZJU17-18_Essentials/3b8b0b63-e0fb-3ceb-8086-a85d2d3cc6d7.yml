@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 10.214.9.71
+lastAccountName: litao
+lastlocation:
+  pitch: 1.0500082
+  world: world
+  x: 89.50789752425804
+  y: 29.0
+  yaw: -354.37137
+  z: 73.62931464022559
+logoutlocation:
+  pitch: 5.250029
+  world: world
+  x: 211.00806851021838
+  y: 60.0
+  yaw: 225.45052
+  z: 400.74783909851783
+timestamps:
+  lastteleport: 1407307044286
+  login: 1407401740117
+  logout: 1407401746509
+uuid: 3b8b0b63-e0fb-3ceb-8086-a85d2d3cc6d7

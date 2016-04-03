@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.189.10.186
+lastAccountName: playerzju
+lastlocation:
+  pitch: 4.499989
+  world: world
+  x: 54.12722545443267
+  y: 73.0
+  yaw: -82.65028
+  z: 108.08790894457137
+logoutlocation:
+  pitch: 16.95001
+  world: world
+  x: 418.33558379502034
+  y: 117.0
+  yaw: -89.99881
+  z: -1048.9504196961452
+money: '6.0'
+socialspy: false
+timestamps:
+  lastteleport: 1398312309491
+  login: 1402204137647
+  logout: 1402204207530
+uuid: 638742d8-9173-30ba-90b3-0257ab0118ad

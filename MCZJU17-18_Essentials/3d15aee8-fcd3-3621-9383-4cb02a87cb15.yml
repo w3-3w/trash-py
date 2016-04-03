@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 222.205.20.59
+lastAccountName: demohn
+lastlocation:
+  pitch: 42.449986
+  world: world
+  x: -0.26910693934259106
+  y: 125.0
+  yaw: 83.25018
+  z: -43.40296760414373
+logoutlocation:
+  pitch: 6.450073
+  world: world
+  x: -1006.2292369340632
+  y: 78.16610926093821
+  yaw: 339.45056
+  z: -346.93773420664644
+socialspy: false
+timestamps:
+  login: 1412272350263
+  logout: 1412274482040
+uuid: 3d15aee8-fcd3-3621-9383-4cb02a87cb15

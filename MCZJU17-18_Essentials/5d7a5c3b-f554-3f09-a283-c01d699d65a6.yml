@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 210.32.153.222
+lastAccountName: andy
+lastlocation:
+  pitch: 22.19994
+  world: world
+  x: 0.17760149143384737
+  y: 125.0
+  yaw: -353.99756
+  z: -44.186611379595284
+logoutlocation:
+  pitch: 18.15
+  world: world
+  x: 885.4004365268862
+  y: 67.0
+  yaw: 36.299164
+  z: 28.58644428296364
+money: '48'
+timestamps:
+  login: 1413615193647
+  logout: 1413615594297
+uuid: 5d7a5c3b-f554-3f09-a283-c01d699d65a6

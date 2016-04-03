@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 222.205.36.102
+lastAccountName: Windows
+logoutlocation:
+  pitch: 23.849989
+  world: mczju
+  x: -0.035061213104374656
+  y: 64.0
+  yaw: 110.25001
+  z: -0.0003396528818002953
+money: '8692.0'
+socialspy: false
+timestamps:
+  lastteleport: 1416807173269
+  login: 1419836134510
+  logout: 1419836146296

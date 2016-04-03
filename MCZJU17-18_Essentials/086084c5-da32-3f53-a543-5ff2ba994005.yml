@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.50.107
+lastAccountName: crazylifate
+lastlocation:
+  pitch: 56.84995
+  world: world
+  x: -62.56672757948084
+  y: 107.82367989251733
+  yaw: 19.75894
+  z: -48.00692710803456
+logoutlocation:
+  pitch: 30.749989
+  world: ZJU
+  x: 57.58741229926592
+  y: 70.74342633493721
+  yaw: -302.83252
+  z: -48.381936649056996
+socialspy: false
+timestamps:
+  lastteleport: 1393498761019
+  login: 1413552881875
+  logout: 1413555421158
+uuid: 086084c5-da32-3f53-a543-5ff2ba994005

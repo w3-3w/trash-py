@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 222.205.99.196
+lastAccountName: frost
+logoutlocation:
+  pitch: 16.20005
+  world: world
+  x: 285.20851716585184
+  y: 63.0
+  yaw: 239.10538
+  z: 829.8283234475707
+money: '108.0'
+socialspy: false
+timestamps:
+  lastteleport: 1397487405557
+  login: 1397899202801
+  logout: 1397899244901

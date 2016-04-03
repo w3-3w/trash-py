@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.141.31.13
+lastAccountName: zhanztx
+lastlocation:
+  pitch: 6.922323
+  world: Island
+  x: 1.6783483815871556
+  y: 143.0
+  yaw: 9.169595
+  z: 5.70997398392821
+logoutlocation:
+  pitch: 0.0
+  world: world
+  x: 3.0
+  y: 68.0
+  yaw: 0.0
+  z: 1.0
+money: '506.0'
+timestamps:
+  lastteleport: 1417444460331
+  login: 1418905538124
+  logout: 1418915763617
+uuid: c563b33c-99e8-32ce-aa68-d703a4e20dea

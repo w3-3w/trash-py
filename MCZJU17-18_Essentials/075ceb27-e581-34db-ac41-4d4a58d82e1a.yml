@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.57.253
+lastAccountName: mochimazui
+lastlocation:
+  pitch: 28.950003
+  world: ZJU
+  x: 532.5
+  y: 16.0
+  yaw: -269.85
+  z: 375.5
+logoutlocation:
+  pitch: 31.79998
+  world: ZJU
+  x: 380.89622512356016
+  y: 74.68052640303186
+  yaw: -252.9004
+  z: 403.34038762988877
+money: '18'
+socialspy: false
+timestamps:
+  lastteleport: 1415125361987
+  login: 1415117361099
+  logout: 1415125496763
+uuid: 075ceb27-e581-34db-ac41-4d4a58d82e1a

@@ -1,0 +1,25 @@
+socialspy: false
+timestamps:
+  login: 1403609249159
+  logout: 1403609953082
+  lastteleport: 1393676302564
+ipAddress: 10.12.74.8
+logoutlocation:
+  world: world
+  x: -5.699999988079072
+  y: 69.0
+  z: -26.98028737925316
+  yaw: 243.60022
+  pitch: 5.550009
+afk: false
+lastlocation:
+  world: world
+  x: 154.644279505123
+  y: 11.0
+  z: 23.04319557495548
+  yaw: 173.40288
+  pitch: 14.699919
+uuid: 801000ca-1d64-380c-a63e-403268599232
+ban:
+  reason: "\xa74\u5df2\u5c01\u7981:\n\xa7r \u8fde\u5e26\uff0c\u7406\u7531\u89c1tniagrear\u3002"
+  timeout: 0

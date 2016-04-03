@@ -1,0 +1,15 @@
+uuid: b50ad385-829d-3141-a216-7e7d7539ba7f
+timestamps:
+  login: 1416140371539
+  logout: 1416141024026
+ipAddress: 10.190.64.35
+logoutlocation:
+  world: world
+  x: -0.9139275059170258
+  y: 68.0
+  z: -9.048265802485323
+  yaw: 308.73584
+  pitch: 8.739218
+ban:
+  reason: "\xa74\u5df2\u5c01\u7981:\n\xa7r \u4efb\u6027\uff01"
+  timeout: 0

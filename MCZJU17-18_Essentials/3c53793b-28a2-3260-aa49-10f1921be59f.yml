@@ -1,0 +1,21 @@
+ipAddress: 210.32.166.199
+lastAccountName: bolyor
+lastlocation:
+  pitch: 82.408875
+  world: world
+  x: 0.6000322091464334
+  y: 125.0
+  yaw: -89.79932
+  z: -43.01136627674228
+logoutlocation:
+  pitch: 46.753605
+  world: world
+  x: 24.89333136759841
+  y: 68.0
+  yaw: -236.71484
+  z: -2.7922155994250093
+socialspy: false
+timestamps:
+  login: 1410618791436
+  logout: 1410618997807
+uuid: 3c53793b-28a2-3260-aa49-10f1921be59f

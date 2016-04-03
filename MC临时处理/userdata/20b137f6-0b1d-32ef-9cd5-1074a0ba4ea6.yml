@@ -1,0 +1,16 @@
+afk: false
+ipAddress: 222.205.104.100
+lastAccountName: www
+logoutlocation:
+  pitch: 19.500032
+  world: ZJU
+  x: -88.25257830014795
+  y: 65.0
+  yaw: 39.14573
+  z: -5.960848155513191
+money: '0'
+socialspy: false
+timestamps:
+  lastteleport: 1413533723522
+  login: 1413641857839
+  logout: 1413643820550

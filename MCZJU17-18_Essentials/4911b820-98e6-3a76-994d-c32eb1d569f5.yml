@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 222.205.27.106
+lastAccountName: linux
+lastlocation:
+  pitch: 3.750003
+  world: world
+  x: 2.6491574672280453
+  y: 73.0
+  yaw: -28.049793
+  z: -368.9198817164334
+logoutlocation:
+  pitch: 13.649983
+  world: world
+  x: 942.111254906513
+  y: 35.0
+  yaw: 118.17183
+  z: -47.33280650733117
+socialspy: false
+timestamps:
+  lastteleport: 1413194113140
+  login: 1413215090797
+  logout: 1413215123512
+uuid: 4911b820-98e6-3a76-994d-c32eb1d569f5

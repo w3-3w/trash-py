@@ -1,0 +1,15 @@
+afk: false
+ipAddress: 10.214.9.71
+lastAccountName: wat08
+logoutlocation:
+  pitch: -1.3500339
+  world: Resource
+  x: 39.30000001192093
+  y: 36.0
+  yaw: 152.551
+  z: 44.59983298037834
+money: '5600.0'
+timestamps:
+  lastteleport: 1407929710933
+  login: 1413457101400
+  logout: 1413457823774

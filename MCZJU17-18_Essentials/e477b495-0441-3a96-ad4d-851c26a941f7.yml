@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.189.10.151
+lastAccountName: oldjunyi
+lastlocation:
+  pitch: -8.8251915
+  world: world
+  x: 0.5344027089805307
+  y: 125.0
+  yaw: -187.72375
+  z: -43.41616533479786
+logoutlocation:
+  pitch: 4.0050974
+  world: world
+  x: -450.85510163078516
+  y: 65.0
+  yaw: 50.787537
+  z: 390.85685570527926
+money: '2784'
+socialspy: false
+timestamps:
+  lastteleport: 1391059082802
+  login: 1408364434670
+  logout: 1408364678861
+uuid: e477b495-0441-3a96-ad4d-851c26a941f7

@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.189.17.6
+lastAccountName: iridle
+lastlocation:
+  pitch: 7.367194
+  world: Island
+  x: 1.361932100272182
+  y: 143.0
+  yaw: -6.581748
+  z: 5.373759416282718
+logoutlocation:
+  pitch: 28.064426
+  world: world
+  x: 11.5
+  y: 77.0
+  yaw: -103.12619
+  z: -2042.5
+money: '22436.0'
+timestamps:
+  lastteleport: 1417325105556
+  login: 1418130808790
+  logout: 1418138278533
+uuid: f6c3acc7-eaa4-3b44-b250-eab464e4d481

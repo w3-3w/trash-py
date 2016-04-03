@@ -1,0 +1,22 @@
+afk: false
+ipAddress: 10.189.40.210
+lastAccountName: helmholtz
+lastlocation:
+  pitch: 9.599991
+  world: world
+  x: 11.924252232871565
+  y: 73.0
+  yaw: 244.19986
+  z: -383.71572294405183
+logoutlocation:
+  pitch: 34.799713
+  world: world
+  x: -0.45927533849911606
+  y: 64.0
+  yaw: 156.90187
+  z: -428.30000001192093
+timestamps:
+  lastteleport: 1414063312875
+  login: 1414117626208
+  logout: 1414117634411
+uuid: 8b0d4d74-7a05-3ea1-aade-180ed91aad4c

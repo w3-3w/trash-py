@@ -1,0 +1,38 @@
+afk: false
+homes:
+  _:
+    pitch: 32.54998
+    world: world
+    x: 8.276535097795529
+    y: 73.0
+    yaw: 164.8501
+    z: -369.9976153234641
+  home:
+    pitch: 37.35
+    world: world
+    x: 2.036842492551866
+    y: 73.0
+    yaw: 219.75047
+    z: -367.5958848806832
+  space:
+    pitch: -2.5499978
+    world: world
+    x: -13.527307280680626
+    y: 14.489670947542598
+    yaw: -208.57213
+    z: 37.79233429922927
+ipAddress: 10.190.66.21
+lastAccountName: NovemberKilo
+logoutlocation:
+  pitch: 16.20019
+  world: mczju
+  x: -12.322139766135894
+  y: 72.0
+  yaw: -266.88245
+  z: 6.063309029816463
+money: '107.0'
+socialspy: false
+timestamps:
+  lastteleport: 1422954753803
+  login: 1423036853810
+  logout: 1423042621336

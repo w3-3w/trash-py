@@ -1,0 +1,46 @@
+afk: false
+homes:
+  _:
+    pitch: 32.54998
+    world: world
+    x: 8.276535097795529
+    y: 73.0
+    yaw: 164.8501
+    z: -369.9976153234641
+  home:
+    pitch: 37.35
+    world: world
+    x: 2.036842492551866
+    y: 73.0
+    yaw: 219.75047
+    z: -367.5958848806832
+  space:
+    pitch: -2.5499978
+    world: world
+    x: -13.527307280680626
+    y: 14.489670947542598
+    yaw: -208.57213
+    z: 37.79233429922927
+ipAddress: 10.214.129.124
+lastAccountName: novemberkilo
+lastlocation:
+  pitch: 1.6500021
+  world: world
+  x: 8.854712312613692
+  y: 57.5
+  yaw: -162.9286
+  z: 30.893299066769828
+logoutlocation:
+  pitch: 43.049892
+  world: world
+  x: 49.63840435933594
+  y: 63.0
+  yaw: -269.6977
+  z: 136.62158209190716
+money: '107.0'
+socialspy: false
+timestamps:
+  lastteleport: 1415464163764
+  login: 1415703637930
+  logout: 1415703779987
+uuid: 415f8684-6ea9-33b3-b89c-20db4bf4d8c7

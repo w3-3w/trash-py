@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 222.205.32.22
+lastAccountName: orwind
+lastlocation:
+  pitch: -37.500065
+  world: world
+  x: 11.699999988079071
+  y: 76.0
+  yaw: -80.0997
+  z: -409.6302681191821
+logoutlocation:
+  pitch: 47.549675
+  world: world
+  x: 14.69999998807907
+  y: 74.0
+  yaw: 93.04239
+  z: -434.46279157708153
+money: '61624.0'
+socialspy: false
+timestamps:
+  lastteleport: 1412777491941
+  login: 1413094972561
+  logout: 1413094979467
+uuid: 0c2acdd9-846f-327c-a6f5-ec5227b658bb

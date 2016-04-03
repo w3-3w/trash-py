@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.190.66.194
+lastAccountName: pulunlam
+lastlocation:
+  pitch: 31.350706
+  world: Resource
+  x: -269.6999999880791
+  y: 22.0
+  yaw: 273.4756
+  z: -374.4584017516084
+logoutlocation:
+  pitch: 24.600462
+  world: world_nether
+  x: -716.3922239801157
+  y: 79.0
+  yaw: 359.09784
+  z: 325.30152270735874
+money: '4480.66686720001'
+socialspy: false
+timestamps:
+  lastteleport: 1414927152635
+  login: 1416480463875
+  logout: 1416480628786
+uuid: 59f298dc-9e0e-3935-83c7-6b9227f6dc70

@@ -1,0 +1,22 @@
+ipAddress: 222.205.55.249
+lastAccountName: gangganglaile
+lastlocation:
+  pitch: 1.9500021
+  world: world
+  x: 53.668846528192915
+  y: 73.0
+  yaw: 254.54971
+  z: 109.13190008655252
+logoutlocation:
+  pitch: 12.599986
+  world: world
+  x: -11.508794148025519
+  y: 71.0
+  yaw: 289.3501
+  z: -98.19400592048613
+socialspy: false
+timestamps:
+  lastteleport: 1394543478047
+  login: 1416631216355
+  logout: 1416631910797
+uuid: e4f8e4ca-cdfb-3ffe-8e94-c381a1f9e69e

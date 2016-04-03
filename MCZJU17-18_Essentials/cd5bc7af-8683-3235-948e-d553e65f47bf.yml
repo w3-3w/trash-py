@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 10.180.73.213
+lastAccountName: green_s_word
+lastlocation:
+  pitch: 2.850005
+  world: world
+  x: 18.384998945892086
+  y: 68.0
+  yaw: 223.05013
+  z: -23.1124407102869
+logoutlocation:
+  pitch: 6.150036
+  world: world
+  x: 0.584546164285016
+  y: 68.0
+  yaw: -132.59999
+  z: 0.7024467980500718
+socialspy: false
+timestamps:
+  lastteleport: 1393512825108
+  login: 1402405353679
+  logout: 1402405426832
+uuid: cd5bc7af-8683-3235-948e-d553e65f47bf

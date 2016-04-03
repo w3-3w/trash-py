@@ -1,0 +1,24 @@
+afk: false
+ipAddress: 10.180.78.15
+lastAccountName: volcano
+lastlocation:
+  pitch: 27.899984
+  world: Resource
+  x: -7.524942499471782
+  y: 217.5
+  yaw: 52.949986
+  z: 36.93567903238055
+logoutlocation:
+  pitch: 25.5
+  world: world
+  x: 17.68717690953054
+  y: 72.0
+  yaw: -295.14313
+  z: -1161.0982492451515
+money: '10132.0'
+socialspy: false
+timestamps:
+  lastteleport: 1404734636500
+  login: 1406873401490
+  logout: 1406874147690
+uuid: 29ec7bf6-fe75-3cde-8f4e-766a754effdc

@@ -1,0 +1,23 @@
+afk: false
+ipAddress: 210.32.186.217
+lastAccountName: lipe
+lastlocation:
+  pitch: 23.549862
+  world: ZJU
+  x: -1439.2862542653615
+  y: 28.615552160002682
+  yaw: 136.51062
+  z: -2433.9222126323193
+logoutlocation:
+  pitch: 35.099987
+  world: ZJU
+  x: -93.93698405863218
+  y: 65.0
+  yaw: 182.55011
+  z: -3.2657070575067806
+money: '1893.0'
+timestamps:
+  lastteleport: 1413808714965
+  login: 1414486127122
+  logout: 1414486237331
+uuid: 94b36413-62ff-3e90-bd65-3baa2afedc73

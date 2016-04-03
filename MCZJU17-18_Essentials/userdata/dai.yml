@@ -1,0 +1,22 @@
+uuid: 2273a2df-4a76-3e63-8b0c-4c3eab685b7e
+timestamps:
+  login: 1418282411317
+  logout: 1418283894816
+  lastteleport: 1414410965908
+ipAddress: 222.205.0.129
+logoutlocation:
+  world: world
+  x: 676.4167254446027
+  y: 105.0
+  z: -1395.5237518974177
+  yaw: 237.77429
+  pitch: 54.599964
+afk: false
+lastlocation:
+  world: world
+  x: 3.5
+  y: 73.0
+  z: -369.5
+  yaw: 348.30017
+  pitch: 1.9500017
+money: '1734.0'
